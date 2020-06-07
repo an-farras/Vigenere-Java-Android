@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vigenere</string>
+    <string name="tab_text_1">Enkripsi</string>
+    <string name="tab_text_2">Dekripsi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="decrypt_input_teks">Masukkan Teks Terenkripsi :</string>
+    <string name="input_kunci">Masukkan Kunci :</string>
+    <string name="decrypt_button">DECRYPT</string>
+    <string name="decrypt_hasil">Hasil Dekripsi</string>
+    <string name="encrypt_input_teks">Masukkan Teks Terang :</string>
+    <string name="encrypt_button">ENCRYPT</string>
+    <string name="encrypt_hasil">Hasil Enkripsi :</string>
+</resources>
